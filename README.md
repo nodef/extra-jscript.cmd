@@ -36,3 +36,4 @@ Run a Jscript.NET script in Windows Console.
 
 
 [![cmdf](https://i.imgur.com/YSdzA2n.jpg)](https://cmdf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-jscript.cmd)
